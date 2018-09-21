@@ -1,0 +1,34 @@
+_repo: The-Life-and-Times-of-Cleopatra-Queen-of-Egypt-A-Study-in-the-Origin-of-the-Roman-Empire_54038
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Weigall, Arthur E. P. Brome (Arthur Edward Pearse Brome)
+    aliases:
+    - Weigall, Arthur
+    - Weigall, Arthur E.P. Brome
+    - Weigall, Arthur Edward Pearse Brome
+    birthdate: 1880
+    deathdate: 1934
+    gutenberg_agent_id: '37360'
+    url: http://www.gutenberg.org/2009/agents/37360
+description: ''
+gutenberg_issued: '2017-01-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54038'
+  lccn: '14012567'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DT'
+- !lcsh 'Egypt -- History -- 332-30 B.C.'
+- !lcsh 'Antonius, Marcus, 83 B.C.?-30 B.C. -- Relations with women'
+- !lcsh 'Caesar, Julius -- Relations with women'
+- !lcsh 'Cleopatra, Queen of Egypt, -30 B.C.'
+- GITenberg
+title: 'The Life and Times of Cleopatra, Queen of Egypt
+
+  A Study in the Origin of the Roman Empire'
+url: http://www.gutenberg.org/ebooks/54038
