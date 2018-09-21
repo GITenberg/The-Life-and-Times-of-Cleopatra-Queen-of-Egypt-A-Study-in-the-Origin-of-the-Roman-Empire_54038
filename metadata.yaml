@@ -1,5 +1,8 @@
 _repo: The-Life-and-Times-of-Cleopatra-Queen-of-Egypt-A-Study-in-the-Origin-of-the-Roman-Empire_54038
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54038-h/images/i_cover.jpg
 creator:
   author:
     agent_name: Weigall, Arthur E. P. Brome (Arthur Edward Pearse Brome)
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '37360'
     url: http://www.gutenberg.org/2009/agents/37360
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54038#The-Life-and-Times-of-Cleopatra-Queen-of-Egypt-A-Study-in-the-Origin-of-the-Roman-Empire
 gutenberg_issued: '2017-01-22'
 gutenberg_type: Text
 identifiers:
